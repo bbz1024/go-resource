@@ -49,4 +49,4 @@ func main() {
 
 }
 
-//go build -gcflags="-S -l -N" main.go 2> main.s
+//go build -gcflags="-S -l -N" main.go 2> main.bak.s
